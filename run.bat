@@ -1,0 +1,1 @@
+.\bin\php.exe .\main.php

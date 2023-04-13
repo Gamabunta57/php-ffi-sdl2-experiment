@@ -1,0 +1,8 @@
+assets/
+vendor/
+
+bin/
+!bin/php.ini
+
+composer.lock
+composer.phar
